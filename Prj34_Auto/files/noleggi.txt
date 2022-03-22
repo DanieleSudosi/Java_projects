@@ -1,0 +1,8 @@
+2022-03-14 0 Andrea
+vericoli noleggiati: 1 id: 46 tipo: CAMION
+prezzo vendita: 162804.33297937896
+costo noleggio giornaliero: 542.6811099312632
+Anno :2012
+Veicolo targato: CA46
+Tipo di patente: C
+-----------------
